@@ -9,10 +9,8 @@
             (__)\       )\/\
                 ||----w |
                 ||     ||
-
-### Perhaps this page will be updated later! 🧆
-
 ```
+### Perhaps this page will be updated later! 🧆
 <!--
 **PeterLaustAlmvig/PeterLaustAlmvig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
