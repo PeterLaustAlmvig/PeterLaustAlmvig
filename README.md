@@ -20,6 +20,7 @@
                      |_____|        |_____|         ~ - . _ _ _ _ _>
 ```
 ### Perhaps this page will be updated later! 🧆
+![](https://tenor.com/view/polish-dancing-cow-gif-19882681)
 <!--
 **PeterLaustAlmvig/PeterLaustAlmvig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
