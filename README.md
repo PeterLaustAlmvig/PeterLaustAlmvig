@@ -1,8 +1,18 @@
 ## Hi there 👋
 
-### Welcome to my GitHub Page!  
+```
+ ___________________________
+< Welcome to my github page >
+ ---------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
 ### Perhaps this page will be updated later! 🧆
 
+```
 <!--
 **PeterLaustAlmvig/PeterLaustAlmvig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
